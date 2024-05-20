@@ -19,3 +19,5 @@ To create this, the data is first pre-processed. This data is pre-processed and 
 Our goal was to create a Machine Learning model that helps people reach their nutrition goal in mind. For example, consumers know that having a lot of protein in their diet is important to have to retain their muscle mass. So in this instance, the user can type in a food, and the model will recommend a meal that represents the user's wants and needs (in this example, a protein shake, chicken, broccoli, and rice is the dish that will be recommended to them).
 
 # <span style="color:#FF7B07"><div align="center">**Ideas**
+
+See the current list: https://drive.google.com/file/d/1EC9l9Ufi0Pup7ZFkaUGfezdlBq78GlrS/view?usp=drive_link
